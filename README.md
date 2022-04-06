@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gilberto Junior (@gagjunior)
 - 👀 I’m interested in machine learning, RPA, information security
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me ...
 
 <!---
